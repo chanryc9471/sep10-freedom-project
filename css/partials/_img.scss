@@ -1,0 +1,18 @@
+// IMG CSS 
+
+// to center the text "Architecture" on the img
+.centered {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+// container for the img and text
+.container-custom {
+  position: relative;
+  text-align: center;
+}
+// change opacity of img
+.opacity {
+   opacity: 0.5;
+}
