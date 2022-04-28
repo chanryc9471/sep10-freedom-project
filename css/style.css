@@ -21,6 +21,9 @@ footer {
 .large-text-size {
   font-size: 60px; }
 
+.card-body {
+  background-color: #e3e1dc; }
+
 .centered {
   position: absolute;
   top: 50%;
