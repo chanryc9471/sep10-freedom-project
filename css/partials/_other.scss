@@ -5,6 +5,7 @@ body {
    color: $jet;
 }
 .end {
+    margin-top: 1rem;
     margin-bottom: 50px;
 }
 footer {
@@ -12,7 +13,7 @@ footer {
     padding: 10px;
 }
 .large-text-size {
-    font-size: 60px;
+    font-size: 260%;
 }
 .card-body {
     background-color: $grey-beige;

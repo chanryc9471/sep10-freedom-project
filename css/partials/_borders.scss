@@ -1,0 +1,7 @@
+// BORDERS
+
+.basic-bg {
+    background-color: $grey-beige;
+    @include padding;
+    border-radius: 3rem;
+}
