@@ -12,8 +12,8 @@ body {
   color: #323031; }
 
 .end {
-  margin-top: 1rem;
-  margin-bottom: 50px; }
+  margin-top: 10px;
+  margin-bottom: 1rem; }
 
 footer {
   text-align: center;
@@ -40,6 +40,9 @@ footer {
 
 .m-head {
   margin-top: 100px; }
+
+.p-outer {
+  padding-top: 10px; }
 
 .basic-bg {
   background-color: #e3e1dc;
