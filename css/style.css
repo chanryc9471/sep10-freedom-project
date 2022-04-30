@@ -22,6 +22,9 @@ footer {
 .large-text-size {
   font-size: 260%; }
 
+a {
+  color: #323031; }
+
 .centered {
   position: absolute;
   top: 50%;
