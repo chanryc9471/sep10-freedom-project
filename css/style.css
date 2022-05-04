@@ -25,6 +25,9 @@ footer {
 a {
   color: #323031; }
 
+.nav-link {
+  font-size: 20px; }
+
 .centered {
   position: absolute;
   top: 50%;
