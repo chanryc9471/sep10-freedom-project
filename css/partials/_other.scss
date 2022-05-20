@@ -4,6 +4,12 @@ body {
    background-color: $light-beige;
    color: $jet;
 }
+p, a, footer, {
+    font-size: 20px;
+}
+h3 {
+    font-size: 2rem;
+}
 .end {
     margin-top: 10px;
     margin-bottom: 5rem;
@@ -13,7 +19,7 @@ footer {
     padding: 10px;
 }
 .large-text-size {
-    font-size: 350%;
+    font-size: 400%;
 }
 a {
     color: $jet;
